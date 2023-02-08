@@ -1,0 +1,15 @@
+.video-section-2{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0px 10px;
+    position: relative;
+    z-index: -1;
+    .video-section-wrapper{
+        max-width: 1200px;
+        margin: 0 auto;
+        video{
+            width: 100%;
+        }
+
+    }
+}

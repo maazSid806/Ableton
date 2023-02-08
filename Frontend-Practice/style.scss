@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.spacer-50px{
+    padding-top: 50px;
+}
+.spacer-100px{
+    padding-top: 100px;
+}
+
+@import"./sass/header.scss";
+@import"./sass/main-hero-section.scss";
+@import"./sass/Description-section.scss";
+@import"./sass/img-card-section.scss";
+@import"./sass/video-section.scss";
+@import"./sass/promoting-section.scss";
+@import"./sass/video-section-2.scss";
+
